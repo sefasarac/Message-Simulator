@@ -21,3 +21,13 @@ The table can be downloaded as PDF with the 'Download PDF Button.
 Selected message's description will be shown in the table. Also the messages will be previewd under the table. If more than 5 message is selected, message preview part will have overflow feature with it. The number could be different with related the screen resolution of with discrete computers. 
 
 ![selectedphoto2](https://github.com/sefasarac/Message-Simulator/assets/70567964/27d6030a-52a2-4c82-b5fb-626e10e51d7c)
+
+
+Below the table, there is a data entry field.
+Data Entry Fields: Data entry fields are dynamically adjusted according to the message type.
+When a message in category A is selected, 4 data entry fields are shown.
+When a message in category B is selected, 1 data entry field is shown.
+When a message from category A-B is selected, 5 data entry fields are shown.
+When a message from the NO-A-B category is selected, any data entry fields are shown.
+
+![photo3](https://github.com/sefasarac/Message-Simulator/assets/70567964/51d86090-e7ec-4643-a7cf-a03c2b518d91)

@@ -1,3 +1,4 @@
 # Message-Simulator
 
-Message Simulator App developed with JavaScript for technical interview.
+Message Simulator is an application where messages in different categories are listed and the selected message or messages are sent to the table. Each message type contains data fields and has a structure in which the relevant data entry fields change dynamically depending on the category of the selected message.
+![photo1](https://github.com/sefasarac/Message-Simulator/assets/70567964/19152636-999c-49d1-9f7f-857e8165a660)

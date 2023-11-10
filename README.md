@@ -10,7 +10,12 @@ Messages can be classified in the table according to their categories. This acti
 
 
 With input text and Search Button, users can find easily the file that they are searching for.
+
 All the messages in table can be deleted with 'Clear List' button.
+
+The table can be downloaded as PDF with the 'Download PDF Button.
+
+![search](https://github.com/sefasarac/Message-Simulator/assets/70567964/aba5def6-395a-4887-ad6b-c23c3fcfed9f)
 
 
 Selected message's description will be shown in the table. Also the messages will be previewd under the table. If more than 5 message is selected, message preview part will have overflow feature with it. The number could be different with related the screen resolution of with different computers. 

@@ -18,6 +18,6 @@ The table can be downloaded as PDF with the 'Download PDF Button.
 ![search](https://github.com/sefasarac/Message-Simulator/assets/70567964/aba5def6-395a-4887-ad6b-c23c3fcfed9f)
 
 
-Selected message's description will be shown in the table. Also the messages will be previewd under the table. If more than 5 message is selected, message preview part will have overflow feature with it. The number could be different with related the screen resolution of with different computers. 
+Selected message's description will be shown in the table. Also the messages will be previewd under the table. If more than 5 message is selected, message preview part will have overflow feature with it. The number could be different with related the screen resolution of with discrete computers. 
 
 ![selectedphoto2](https://github.com/sefasarac/Message-Simulator/assets/70567964/27d6030a-52a2-4c82-b5fb-626e10e51d7c)
